@@ -1,0 +1,13 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "out",
+  "framework": "nextjs",
+  "images": {
+    "domains": [
+      "source.unsplash.com",
+      "images.unsplash.com", 
+      "ext.same-assets.com",
+      "ugc.same-assets.com"
+    ]
+  }
+} 
